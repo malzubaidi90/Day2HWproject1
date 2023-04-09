@@ -9,4 +9,8 @@ public class Test {
 	public void Iraq() {
 		System.out.println("11");
 	}
+	
+	public void add() {
+		System.out.println("111");
+	}
 }
